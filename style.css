@@ -1,0 +1,23 @@
+h1 { color :red;}
+p {color :violet;
+font-size :20px;}
+
+.image {
+    margin: 2%;
+    margin-top: 8px;
+    margin-left: 10px;
+     border: 2px; border-style: hidden;  border-color: mediumorchid;
+       background-color:rgb(215, 233, 238);  
+}   
+       
+
+#img-1 {
+   
+    position: static
+
+}
+img {
+    width: 150px; height: 150px; box-shadow: 2px 2px 4px rgb(22, 20, 20);
+
+}
+li{ font-weight: bold; text-transform: capitalize; font-family: Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;}
